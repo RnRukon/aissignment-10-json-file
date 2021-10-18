@@ -3,36 +3,42 @@
         "id": 1,
         "title": "Teeth Cleaning ",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/07/ser_6-550x500.jpg"
     },
     {
         "id": 2,
         "title": "Teeth Whitening ",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/07/ser_5-550x500.jpg"
     },
     {
         "id": 3,
         "title": "Orthodontics ",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/07/ser_4-550x500.jpg"
     },
     {
         "id": 4,
         "title": "Dental Implants ",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/09/patient-care-550x500.jpg"
     },
     {
         "id": 5,
         "title": "Cosmetic Dentistry",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/07/ser_2-550x500.jpg"
     },
     {
         "id": 6,
         "title": "General Dentistry ",
         "description": "Consect etur adipisi cing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua.",
+        "des": "We are use medication to help patients relax during dental procedures. It’s sometimes referred to as “sleep dentistry,” although that’s not entirely accurate. Patients are usually awake with the exception of those who are under general anesthesia.",
         "img": "https://themes.hibootstrap.com/rola/wp-content/uploads/2021/07/ser_1-550x500.jpg"
     }
 ]
